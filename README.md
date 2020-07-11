@@ -20,7 +20,7 @@ If you have any questions or need to report any issues please contact: info@ml5j
 - [Resources]()
 - [Terms]()
 - [References]()
-- [FAQ]()
+
 
 
 
