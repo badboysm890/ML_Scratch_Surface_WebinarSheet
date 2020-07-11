@@ -70,7 +70,8 @@ Let’s build a The Detection System if People Entering Home or Shop with face M
 
 The Project uses ml5.js to use machine learning models trained in Google’s Teachable Machine and tensorflow.js to allow the Project to recognize custom objects 👜.
 
-
+## Link to Presentation
++ (https://docs.google.com/presentation/d/1HlOiluUxyqvOcSYcodL33BsBbDs4jnYjYrjAM0FqhcQ/edit?usp=sharing)
 
 ## Resources
 
