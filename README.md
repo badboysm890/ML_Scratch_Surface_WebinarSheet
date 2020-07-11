@@ -2,20 +2,10 @@
 ML Webinar Reference and Code
 
 # A Friendly Introduction to Machine Learning with ml5.js
-> Prepared for [ITP Camp 2019](https://itp.nyu.edu/camp2019/) by [Yining Shi](http://1023.io/) & [Joey Lee](https://jk-lee.com/work/)
-> 
+ 
 > keywords: machine learning, ml5.js, p5.js, friendly, introduction, workshop
 
-
-## TLDR
-
-* This is an introductory workshop to machine learning with ml5.js
-* Context/Audience: initially prepared for [ITP Camp 2019](https://itp.nyu.edu/camp2019/). ITP Campers are usually creative tech folks or creative tech adjacent, but we hope this workshop can be used with audiences of all shapes and types.
-* General overview of machine learning concepts and terms with emphasis on learning through making.
-* We use ml5.js, a javascript library to do machine learning for the web. 
-
 ## About
-
 
 Welcome to this friendly introduction to machine learning with ml5.js. We're happy you're here.
 
@@ -39,15 +29,15 @@ If you have any questions or need to report any issues please contact: info@ml5j
 ## Agenda
 >  ~2.5 hours
 
-+ Hello! (5 mins)
-+ Intro to Machine Learning (30 mins)
++ Hello!
++ Intro to Machine Learning 
 + Intro to ml5.js (15 mins)
 + Quick 5 Min Break
-+ Coding session (~45 mins)
-+ Build a quick-and-dirty demo (~30 mins)
++ Coding session
++ Build a quick demo (~30 mins)
 + Present demo (10 mins)
 + Q&A, Closing notes (5 mins)
-+ Farewell + happy camping!(5 mins)
++ Final Presentation
 
 ## Key Questions and Takeaways
 
@@ -78,11 +68,11 @@ If you have any questions or need to report any issues please contact: info@ml5j
 
 ## Coding session
 
-Let’s build a The Unicorn Race is an interactive game built with p5.js in which the audience races🏃‍♀️ characters across the screen based on what the computer “sees 👀” and “hears 👂”. 
+Let’s build a The Detection System if People Entering Home or Shop with face Mask built with ml5.js in which the audience shows their face the computer “sees 👀”  tells the if they are Safe or Not”. 
 
-The game uses ml5.js to use machine learning models trained in Google’s Teachable Machine and tensorflow.js to allow the game to recognize custom objects 👜  and sounds 🔊. 
+The Project uses ml5.js to use machine learning models trained in Google’s Teachable Machine and tensorflow.js to allow the Project to recognize custom objects 👜.
 
-See [live Demo](https://editor.p5js.org/yining/sketches/TSDkyI-Sy)!
+
 
 ## Resources
 
@@ -104,7 +94,7 @@ See [live Demo](https://editor.p5js.org/yining/sketches/TSDkyI-Sy)!
 
 ## Terms
 
-> Collected from [Yining's Week 1 of Machine Learning for the Web](https://docs.google.com/presentation/d/1s0iT382Pl1DMGKb5xhk7_V3DlW1QQHfHs4snNoS_sIU/edit#slide=id.g40fd84b173_0_613)
+> Collected from "https://github.com/ml5js/ml5-friendly-intro-to-ml/blob/master/README.md"
 
 - **Artificial Intelligence**:
   - AI is the science of making things smart:
@@ -155,15 +145,9 @@ See [live Demo](https://editor.p5js.org/yining/sketches/TSDkyI-Sy)!
 
 ## ml5 in 3 
 
-![ml5 in 3 steps](assets/ml5-in-3-steps.png)
-
-## Unicorn Racing Game:
-
-> Live coding session for Unicorn Racing Game to showcase how you can use ml5 to integrate machine learning to add new types of interactions to your interactives!
-
-- See [live Demo](https://editor.p5js.org/yining/sketches/TSDkyI-Sy)!
-
-## Choose your own adventure
+- Train the model in teachable machine
+- Download the Model
+- Copy the code and Run it !
 
 > Team up and come up with a machine learning application using some of these suggestions below!
 
@@ -181,13 +165,11 @@ See [live Demo](https://editor.p5js.org/yining/sketches/TSDkyI-Sy)!
 ## References
 
 ### Online Learning Materials, Courses, and Workshops
-+ [Yining Shi](http://1023.io/)'s ["Machine learning for the web" course](https://github.com/yining1023/machine-learning-for-the-web) at NYU's ITP.
-+ [Machine Learning Workshop by @AndreasRef](https://andreasref.github.io/ml/)
+
 + [Coding Train Video Series](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw):
   + [A Beginner's Guide to Machine Learning with ml5.js](https://www.youtube.com/watch?v=jmznx0Q1fP0&list=PLRqwX-V7Uu6YPSwT06y_AEYTqIwbeam3y)
   + [Neural Networks and Machine Learning](https://www.youtube.com/user/shiffman/playlists?view=50&sort=dd&shelf_id=16)
-+ [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
-+ [Udemy - Machine learning with Javascript](https://www.udemy.com/machine-learning-with-javascript/)
++ [ML - Basics] (https://www.youtube.com/watch?v=cKxRvEZd3Mw&list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
 + [Hands-On Machine Learning with Scikit-Learn and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems](https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291)
 
 ### Project references
