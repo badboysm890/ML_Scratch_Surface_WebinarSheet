@@ -1,7 +1,5 @@
 # ML_Scratch_Surface
 ML Webinar Reference and Code
-
-# A Friendly Introduction to Machine Learning with ml5.js
  
 > keywords: machine learning, ml5.js, p5.js, friendly, introduction, workshop
 
