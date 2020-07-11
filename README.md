@@ -1,4 +1,4 @@
-# ML_Scratch_Surface
+# Scratch the Surface of ML
 ML Webinar Reference and Code
  
 > keywords: machine learning, ml5.js, p5.js, friendly, introduction, workshop
