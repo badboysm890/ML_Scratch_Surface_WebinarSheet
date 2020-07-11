@@ -204,13 +204,3 @@ The Project uses ml5.js to use machine learning models trained in Google’s Tea
 + [Openmoji](https://openmoji.org/) - "Open-source emojis for designers, developers and everyone else!"
 
 
-## FAQ
-
-> What is the difference between machine learning and AI?
-
-+ ...
-
-
-> what is the difference between a model, a pre-trained model, and an algorithm? What is the correct way to refer to those things?
-
-+ ...
